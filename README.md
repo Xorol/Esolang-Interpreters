@@ -10,3 +10,7 @@ Command | Action
 |; | Increments the control accumulator|
 ### The interpreter
 The interpreter just takes input from the user infinitely, and executes it as Semicolon Hash code.
+## [Numbers](https://esolangs.org/wiki/Numbers "Numbers on the esolangs wiki")
+I'm not going to explain the language here as it has too many instructions, if you want an explanation of it, click the link.
+### The interpreter
+The interpreter takes input from the user as to which file to open and executes it.
