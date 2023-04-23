@@ -1,0 +1,6 @@
+=== v1.1.0 (INSERT-DATE-HERE) ===
+ * New command: 28.
+ * Two new built-in commands: 120 and 121
+
+=== v1.0.0 (3-31-23) ===
+ * Release

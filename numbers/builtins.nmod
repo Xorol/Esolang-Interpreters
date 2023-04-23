@@ -1,0 +1,20 @@
+;!USE 10
+
+; Is-equal-to function
+; a = b
+; subtract, subtract 1, is-negative
+10 : 0 : 11 *1 22 11 18
+
+; Is-greater-than
+; a > b
+11 : 0 : 11 18
+
+; Is-less-than
+; a < b
+12 : 0 : 22 11 18
+
+; Max
+; max(a, b)
+;13 : 0 : *$1 24 26 24 10.11 24 41 42 14 25 25 23 ~ 25 23 25
+
+; Rotation: top-to-bottom

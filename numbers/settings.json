@@ -1,0 +1,7 @@
+{
+  "input-prompts": {
+    "integer": "Please enter a number: ",
+    "character": "Please enter a character: ",
+    "string": "Please enter a string: "
+  }
+}
